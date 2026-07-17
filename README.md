@@ -11,6 +11,7 @@ https://github.com/user-attachments/assets/45da2194-6a84-4d5a-be7b-dfeb837482a3
 
 
 What's been built
+
 Fridge inventory
 Your live fridge, always in view. Items are auto-categorised (vegetables, meat, dairy, condiments) and flagged when they're going stale. Add items manually or scan to update the whole lot at once.
 

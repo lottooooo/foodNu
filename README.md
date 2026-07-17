@@ -1,7 +1,7 @@
 foodNu - fridge to recipe,  submitted to App Store
 An AI-native food operating system for everyday home cooks.
 
-Foodu Appu turns your fridge into the starting point for every meal decision. Scan your fridge, talk to Chef Kai (your AI sous-chef), get a personalised recipe that fits what you have, your energy tonight, and your health goals — with the meal logged automatically when you cook it.
+foodNu turns your fridge into the starting point for every meal decision. Scan your fridge, talk to Chef Kai (your AI sous-chef), get a personalised recipe that fits what you have, your energy tonight, and your health goals — with the meal logged automatically when you cook it.
 
 We're building for the moment every other food app loses the user: the tired Tuesday evening when the plan falls apart and DoorDash wins. That's the moment we're designed for.
 
